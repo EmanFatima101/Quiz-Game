@@ -1,0 +1,140 @@
+What does CPU stand for?
+1. Central Processing Unit
+2. Computer Personal Unit
+3. Central Print Unit
+4. Control Processing Utility
+1
+Central Processing Unit
+Which part of the computer is used to store data permanently?
+1. RAM
+2. Hard Drive
+3. Cache
+4. Register
+2
+Hard Drive
+Which device is used to point, click, and select?
+1. Keyboard
+2. Monitor
+3. Mouse
+4. Scanner
+3
+Mouse
+Which key is used to remove text to the left of the cursor?
+1. Delete
+2. Backspace
+3. Shift
+4. Tab
+2
+Backspace
+Which of these is an input device?
+1. Printer
+2. Monitor
+3. Keyboard
+4. Speaker
+3
+Keyboard
+What does RAM stand for?
+1. Random Access Memory
+2. Readable Access Module
+3. Rapid Action Memory
+4. Run Access Memory
+1
+Random Access Memory
+Which one is an operating system?
+1. MS Word
+2. Windows
+3. Chrome
+4. PowerPoint
+2
+Windows
+Which device shows visual output?
+1. Speaker
+2. Monitor
+3. Keyboard
+4. Mouse
+2
+Monitor
+What is the brain of the computer?
+1. RAM
+2. Monitor
+3. CPU
+4. Hard Disk
+3
+CPU
+Which is a storage device?
+1. Mouse
+2. Keyboard
+3. USB Flash Drive
+4. Monitor
+3
+USB Flash Drive
+Which software is used to browse the internet?
+1. MS Excel
+2. Chrome
+3. PowerPoint
+4. WordPad
+2
+Chrome
+What is used to print documents?
+1. Scanner
+2. Mouse
+3. Printer
+4. Webcam
+3
+Printer
+What does URL stand for?
+1. Uniform Resource Locator
+2. Unknown Remote Link
+3. Universal Reference Link
+4. User Resource List
+1
+Uniform Resource Locator
+Which key is used to make a letter capital?
+1. Ctrl
+2. Alt
+3. Shift
+4. Esc
+3
+Shift
+What type of device is a speaker?
+1. Input device
+2. Output device
+3. Storage device
+4. Processing device
+2
+Output device
+What is used to take pictures for the computer?
+1. Printer
+2. USB
+3. Webcam
+4. Speaker
+3
+Webcam
+Which program is used to create documents?
+1. MS Word
+2. MS Paint
+3. VLC Player
+4. Chrome
+1
+MS Word
+What do we call physical parts of a computer?
+1. Software
+2. Hardware
+3. Programs
+4. Apps
+2
+Hardware
+Which shortcut copies selected text?
+1. Ctrl + X
+2. Ctrl + V
+3. Ctrl + C
+4. Ctrl + P
+3
+Ctrl + C
+Which part temporarily stores data while working?
+1. RAM
+2. ROM
+3. Hard Disk
+4. Printer
+1
+RAM

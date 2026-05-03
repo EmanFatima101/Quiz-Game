@@ -1,0 +1,60 @@
+What does CPU stand for?
+A. Central Processing Unit
+B. Computer Personal Unit
+C. Central Power Utility
+D. Control Program Unit
+A
+Which device is used to input text into a computer?
+A. Monitor
+B. Mouse
+C. Keyboard
+D. Speaker
+C
+What type of memory is temporary?
+A. ROM
+B. DVD
+C. HDD
+D. RAM
+D
+Which operating system is made by Microsoft?
+A. macOS
+B. Linux
+C. Windows
+D. Android
+C
+Which device shows output on the screen?
+A. Printer
+B. Monitor
+C. Scanner
+D. Keyboard
+B
+What does "www" stand for?
+A. World Web Window
+B. Wide Web World
+C. World Wide Web
+D. Web Wide World
+C
+Which storage device has the largest capacity?
+A. Floppy disk
+B. Hard drive
+C. CD
+D. Pen drive
+B
+Which key is used to delete text?
+A. Shift
+B. Enter
+C. Backspace
+D. Tab
+C
+Which of the following is an example of application software?
+A. Windows
+B. MS Word
+C. BIOS
+D. Linux
+B
+What is the brain of the computer?
+A. Keyboard
+B. RAM
+C. CPU
+D. Monitor
+C

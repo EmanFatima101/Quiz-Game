@@ -1,0 +1,78 @@
+What is the main function of the ALU in a CPU?
+1. Store data
+2. Perform arithmetic and logic operations
+3. Control I/O devices
+4. Manage memory
+2
+Perform arithmetic and logic operations
+Which protocol is used to securely browse websites?
+1. HTTP
+2. HTTPS
+3. FTP
+4. SMTP
+2
+HTTPS
+What is the maximum value that can be stored in an 8-bit unsigned binary number?
+1. 127
+2. 255
+3. 512
+4. 1024
+2
+255
+Which type of network spans a large geographical area?
+1. LAN
+2. MAN
+3. WAN
+4. PAN
+3
+WAN
+Which of the following is not a programming paradigm?
+1. Object-Oriented
+2. Functional
+3. Procedural
+4. Spreadsheet
+4
+Spreadsheet
+Which layer of the OSI model is responsible for routing?
+1. Physical
+2. Network
+3. Transport
+4. Data Link
+2
+Network
+What is the purpose of a DNS server?
+1. Store files
+2. Translate domain names to IP addresses
+3. Encrypt data
+4. Manage email
+2
+Translate domain names to IP addresses
+Which type of database stores data in tables?
+1. Relational
+2. Hierarchical
+3. Network
+4. Object-oriented
+1
+Relational
+What is the binary representation of the decimal number 10?
+1. 1010
+2. 1100
+3. 1001
+4. 1110
+1
+1010
+Which logic gate outputs true only when both inputs are true?
+1. OR
+2. AND
+3. XOR
+4. NOT
+2
+AND
+Which type of memory is volatile and loses data when power is off?
+1. ROM
+2. Flash
+3. RAM
+4. Hard Disk
+3
+RAM
+

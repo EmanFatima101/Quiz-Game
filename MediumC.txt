@@ -1,0 +1,72 @@
+Which device is used to read and write data on disks?
+1. Monitor
+2. Keyboard
+3. Optical Drive
+4. Mouse
+3
+Optical Drive
+What type of software is Microsoft Word?
+1. Operating System
+2. Application Software
+3. Utility Software
+4. Firmware
+2
+Application Software
+Which key combination is used to undo an action?
+1. Ctrl + Z
+2. Ctrl + Y
+3. Ctrl + X
+4. Ctrl + C
+1
+Ctrl + Z
+Which storage device is portable and uses flash memory?
+1. SSD
+2. USB Drive
+3. Hard Disk
+4. CD-ROM
+2
+USB Drive
+What is the primary function of the motherboard?
+1. Process data
+2. Store files
+3. Connect all components
+4. Display output
+3
+Connect all components
+Which programming language is used for web pages?
+1. HTML
+2. C++
+3. Python
+4. Java
+1
+HTML
+Which device converts digital signals to analog for communication?
+1. Modem
+2. Router
+3. Switch
+4. Hub
+1
+Modem
+Which software protects a computer from viruses?
+1. Firewall
+2. Antivirus
+3. Spreadsheet
+4. Browser
+2
+Antivirus
+What type of memory is non-volatile and stores firmware?
+1. RAM
+2. ROM
+3. Cache
+4. Virtual Memory
+2
+ROM
+Which type of memory is volatile and loses data when power is off?
+1. ROM
+2. Flash
+3. RAM
+4. Hard Disk
+3
+RAM
+
+

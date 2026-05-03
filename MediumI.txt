@@ -1,0 +1,147 @@
+Find the next number in the series: 3, 6, 12, 24, ?
+1. 36
+2. 48
+3. 42
+4. 30
+2
+48
+If 5 + 7 = 12, 8 + 6 = 14, then 9 + 5 = ?
+1. 14
+2. 20
+3. 21
+4. 15
+1
+14
+Which letter comes next: B, D, G, K, ?
+1. N
+2. O
+3. P
+4. M
+1
+N
+If all Smibs are Blobs and some Blobs are Dibs, are some Smibs definitely Dibs?
+1. Yes
+2. No
+3. Cannot say
+4. Sometimes
+3
+Cannot say
+Find the missing number: 2, 5, 10, 17, ?
+1. 24
+2. 26
+3. 25
+4. 27
+3
+26
+Which one is different: Dog, Cat, Cow, Car
+1. Dog
+2. Cat
+3. Cow
+4. Car
+4
+Car
+Find the next number: 1, 4, 9, 16, 25, ?
+1. 30
+2. 36
+3. 35
+4. 40
+2
+36
+If today is Thursday, what day will it be in 100 days?
+1. Monday
+2. Wednesday
+3. Friday
+4. Saturday
+1
+Monday
+Which number comes next: 2, 6, 12, 20, 30, ?
+1. 40
+2. 42
+3. 45
+4. 50
+2
+42
+If Tom is older than Jerry and Jerry is older than Mike, who is youngest?
+1. Tom
+2. Jerry
+3. Mike
+4. Cannot tell
+3
+Mike
+Which figure comes next: ■, ▲, ■, ▲, ?
+1. ■
+2. ▲
+3. ●
+4. ▼
+1
+■
+Find the missing letter: A, C, F, J, ?
+1. O
+2. N
+3. K
+4. M
+2
+O
+Which number is missing: 7, 14, 28, ?, 112
+1. 42
+2. 56
+3. 49
+4. 64
+2
+56
+If a train travels 60 km in 1 hour, how far will it travel in 2.5 hours?
+1. 150 km
+2. 140 km
+3. 160 km
+4. 130 km
+1
+150 km
+Find the odd one out: Rose, Lily, Tulip, Oak
+1. Rose
+2. Lily
+3. Tulip
+4. Oak
+4
+Oak
+What comes next in the series: 5, 10, 20, 40, ?
+1. 70
+2. 60
+3. 80
+4. 90
+3
+80
+If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops Lazzies?
+1. Yes
+2. No
+3. Cannot say
+4. Sometimes
+1
+Yes
+Which number completes the pattern: 1, 3, 7, 15, 31, ?
+1. 63
+2. 62
+3. 64
+4. 65
+2
+63
+If John is shorter than Mike and Mike is shorter than Sam, who is the tallest?
+1. John
+2. Mike
+3. Sam
+4. Cannot tell
+3
+Sam
+Find the missing number: 10, 20, 40, ?, 160
+1. 70
+2. 80
+3. 100
+4. 120
+2
+80
+Which is the next number in the series: 2, 6, 12, 20, 30, 42, ?
+1. 54
+2. 56
+3. 60
+4. 64
+1
+54
